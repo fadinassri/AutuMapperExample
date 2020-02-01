@@ -1,0 +1,10 @@
+C:\local\fadi\Projects\AutoMapper\AutoMapperExample\AutoMapperExample\bin\Debug\AutoMapperExample.exe.config
+C:\local\fadi\Projects\AutoMapper\AutoMapperExample\AutoMapperExample\bin\Debug\AutoMapperExample.exe
+C:\local\fadi\Projects\AutoMapper\AutoMapperExample\AutoMapperExample\bin\Debug\AutoMapperExample.pdb
+C:\local\fadi\Projects\AutoMapper\AutoMapperExample\AutoMapperExample\bin\Debug\AutoMapper.dll
+C:\local\fadi\Projects\AutoMapper\AutoMapperExample\AutoMapperExample\bin\Debug\AutoMapper.pdb
+C:\local\fadi\Projects\AutoMapper\AutoMapperExample\AutoMapperExample\bin\Debug\AutoMapper.xml
+C:\local\fadi\Projects\AutoMapper\AutoMapperExample\AutoMapperExample\obj\Debug\AutoMapperExample.csprojAssemblyReference.cache
+C:\local\fadi\Projects\AutoMapper\AutoMapperExample\AutoMapperExample\obj\Debug\AutoMapperExample.csproj.CopyComplete
+C:\local\fadi\Projects\AutoMapper\AutoMapperExample\AutoMapperExample\obj\Debug\AutoMapperExample.exe
+C:\local\fadi\Projects\AutoMapper\AutoMapperExample\AutoMapperExample\obj\Debug\AutoMapperExample.pdb
