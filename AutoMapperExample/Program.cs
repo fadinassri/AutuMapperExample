@@ -11,19 +11,16 @@ namespace AutoMapperExample
     {
         static void Main(string[] args)
         {
-            //Step1: Initialize the mapper
-        
 
-            //Step2: Create the source object
             Employee emp = new Employee();
-            emp.Name = "James";
-            emp.Salary = 20000;
-            emp.Address = "London";
-            emp.Department = "IT";
+            emp.Name = "Fadi";
+            emp.Salary = 700000;
+            emp.Address = "Canada";
+            emp.Department = "Softwar Development";
 
          
 
-            //Step3: use the mapper to map the source and destination object
+    
             Mapper map = new Mapper( new MapperConfiguration(cfg=> cfg.CreateMap<Employee, EmployeeDTO>()));
             var empDTO = map.Map<Employee, EmployeeDTO>(emp);
             //OR
